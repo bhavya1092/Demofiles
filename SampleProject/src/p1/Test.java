@@ -6,8 +6,7 @@ import java.util.List;
 public class Test 
 {
 	
-
-	public void display(List <Integer>list)
+   public void display(List <Integer>list)
 	{
 		for(int x :list)
 			System.out.println(x);
